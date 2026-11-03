@@ -1,0 +1,61 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+**/build/
+
+# Gradle files
+.gradle/
+buildOutputCleanup/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# VS Code
+.vscode/
+
+# Kotlin / Compiler caches & logs
+.kotlin/
+*.log
+build_log*.txt
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files & Hprof profiling / memory dumps
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Google Services / Secrets / Signing
+google-services.json
+*.jks
+*.keystore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Agent working directories / caches
+.agents/
